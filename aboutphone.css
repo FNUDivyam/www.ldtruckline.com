@@ -1,0 +1,17 @@
+
+#header h1{
+font-size: 1rem;
+/* width: 22px; */
+}
+
+/* section  */
+
+#section-container img{
+    height: 200px;
+    width: 200px;
+}
+
+#section-container p{
+     margin-left: -297px;
+    margin-top: 88px;
+}

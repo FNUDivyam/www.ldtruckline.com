@@ -1,0 +1,15 @@
+/* #services-container{
+    margin-top: 619px;
+}
+
+#services{
+    margin-left: 192px;
+} */
+
+#home::before{
+    height: 800px;
+}
+
+#services {
+    text-align: center;
+}

@@ -1,0 +1,59 @@
+/* css reset  */
+
+#header{
+height: 100px;
+background-color: rgb(194, 183, 183);
+
+
+}
+
+#header h1{
+   color: white;
+   padding: 27px 87px;
+}
+
+/* container  */
+
+
+#section-container{
+    margin: 98px 123px;
+}
+
+#section-container img{
+    height: 300px;
+    width: 300px;
+    border-radius: 300px;
+/* margin: 2px 2px; */
+}
+
+
+
+/* section  */
+
+
+#section{
+    display: flex;
+}
+
+
+.item{
+    display: flex;
+}
+
+.item p{
+    width: 352px;
+    margin-top: -212px;
+}
+
+/* footer  */
+#footer{
+height: 100px;
+background-color: black;
+}
+
+#footer p{
+color: white;
+text-align: center;
+padding: 36px 2px;
+
+}

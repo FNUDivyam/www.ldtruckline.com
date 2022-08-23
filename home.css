@@ -1,0 +1,121 @@
+/* css reset  */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    /* height: 1000px */
+}
+
+/* navbar  */
+
+
+#navbar{
+/* height: 1500px; */
+
+}
+
+#logo{
+background-color: black;
+height: 100px;
+display: flex;
+}
+
+#logo h1{
+color: white;
+font-size: 2rem;
+padding: 27px 78px;
+}
+
+#logo img{
+    height: 80px;
+    width: 80px;
+ margin-left: 612px;
+ padding: 9px;
+}
+
+/* section  */
+
+#section{
+    display: flex;
+    /* border: 2px solid red; */
+    margin-top: 154px;
+    position: relative;
+}
+
+#section::before{
+    content: "";
+    background-color: black;
+    position: absolute;
+    height: 153%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.4;
+    margin-top: -34px;
+}
+
+.item{
+    /* border: 2px solid green; */
+    text-align: center;
+
+}
+#box1{
+    /* border: 2px solid purple; */
+    margin-top: -23px;
+    background-color: grey;
+    
+}
+
+#box1 p{
+    /* width: 22px; */
+   
+    
+}
+
+#box3 {
+    margin-top: 34px;
+    background-color: rgb(94, 84, 84);
+    color: white;
+
+}
+
+#box2{
+    background-color: rgb(123, 129, 118);
+}
+
+
+/* img container  */
+
+#section-imgcontainer{
+
+}
+
+#section-imgcontainer img{
+    height: 200px;
+    width: 200px;
+    border-radius: 140px;
+align-items: center;
+margin-left: 121px;
+
+}
+
+
+/* home footer  */
+
+
+#footer{
+    background-color: black;
+    height: 100px;
+    margin-top: 82px;
+
+}
+
+
+#footer p{
+    color:white;
+    text-align: center;
+    padding: 22px;
+
+}

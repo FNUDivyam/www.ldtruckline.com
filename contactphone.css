@@ -1,0 +1,28 @@
+#header{
+
+}
+
+#header h1{
+    font-size: 1.6rem;
+}
+
+#section-container{
+
+}
+
+#section-container img{
+    height: 100px;
+    width: 100px;
+    margin-left: -22px;
+}
+
+.item h2{
+    font-size: 1.3rem;
+    margin-left: -103px;
+}
+
+.item p{
+    margin-left: -18px;
+    margin-top: 76px;
+    width: 207px;
+}
